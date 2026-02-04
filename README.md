@@ -1,5 +1,5 @@
-# nuevas
-instrucciones 
+# instrucciones 
+
 -crear un entorno virtual
 -Activar el entorno virtual
 -Instalar Flask
